@@ -13,8 +13,6 @@ Please check out my [Design Portfolio](http://allisonmarie.co/design) to see my 
 
 For samples of my user research, see [my Research Samples](http://allisonmarie.co/research)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Get in Touch!
 
 If you'd like to work together, please [get in touch here](http://allisonmarie.co/contact)!
