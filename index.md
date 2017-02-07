@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Strategist
 
-You can use the [editor on GitHub](https://github.com/allisonmarie/allisonmariecooper.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Please check out my [Strategy site](http://allisonmarie.co/strategy) to see my past work in User Experience, User Interface, Product and Visual design.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Designer
 
-### Markdown
+Please check out my [Design Portfolio](http://allisonmarie.co/design) to see my past work in User Experience, User Interface, Product and Visual design.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Researcher
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+For samples of my user research, see [my Research Samples](http://allisonmarie.co/research)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Get in Touch!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/allisonmarie/allisonmariecooper.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you'd like to work together, please [get in touch here](http://allisonmarie.co/contact)!
