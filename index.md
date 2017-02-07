@@ -3,15 +3,15 @@ Allison is a San Francisco-based design strategist, with experience in UX/UI/Pro
 
 ## Strategist
 
-Please check out my [Strategy site](http://allisonmarie.co/strategy) to see my past work in User Experience, User Interface, Product and Visual design.
+Please check out my [Strategy site](http://allison.world) to see my past work in User Experience, User Interface, Product and Visual design.
 
 ## Designer
 
-Please check out my [Design Portfolio](http://allisonmarie.co/design) to see my past work in User Experience, User Interface, Product and Visual design.
+Please check out my [Design Portfolio](http://allisonmarie.co) to see my past work in User Experience, User Interface, Product and Visual design.
 
 ## Researcher
 
-For samples of my user research, see [my Research Samples](http://allisonmarie.co/research)
+For samples of my user research, see [my Research Samples](http://allisoncooper.info)
 
 ### Get in Touch!
 
