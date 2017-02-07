@@ -1,3 +1,6 @@
+# About
+Allison is a San Francisco-based design strategist, with experience in UX/UI/Product Design, business strategy and ethnographic user research.
+
 ## Strategist
 
 Please check out my [Strategy site](http://allisonmarie.co/strategy) to see my past work in User Experience, User Interface, Product and Visual design.
@@ -6,7 +9,7 @@ Please check out my [Strategy site](http://allisonmarie.co/strategy) to see my p
 
 Please check out my [Design Portfolio](http://allisonmarie.co/design) to see my past work in User Experience, User Interface, Product and Visual design.
 
-### Researcher
+## Researcher
 
 For samples of my user research, see [my Research Samples](http://allisonmarie.co/research)
 
