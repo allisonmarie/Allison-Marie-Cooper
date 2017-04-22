@@ -1,5 +1,5 @@
 # About
-Allison is a San Francisco-based design strategist, with experience in UX/UI/Product Design, business strategy and user research, and passionate about social impact/change, anthropological theory and sailing.
+Allison is a San Francisco-based design strategist, with experience in UX/UI/product design, business strategy and user research, and passionate about social impact/change, anthropological theory, travel and sailing.
 
 ## Portfolio
 Please check out my [Design Portfolio](http://allisonmarie.co) to see some of my past work in design (user experience, user interface, product and visual), business strategy and user research.
