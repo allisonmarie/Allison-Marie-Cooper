@@ -1,4 +1,4 @@
-*"If you are not embarrassed by the first version of your product, you’ve launched too late." — Reid Hoffman
+*"If you are not embarrassed by the first version of your product, you’ve launched too late." — Reid Hoffman*
 
 # Small Experiments
 A key tenet of design thinking is iteration — testing early and often — and in a lean design process this means experimenting as cheaply as possible, building out ideas in their most distilled test-able form as small experiments to learn from. I'm a grad student; I've got to live my live like an underfunded lean startup, so small experiments are the way to go. Most of these are still just ideas. By posting them, I intend to publicly commit to building them out so my lists of ideas starts to become real.
